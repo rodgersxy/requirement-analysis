@@ -37,3 +37,26 @@ Identifying and addressing requirements early in the SDLC helps prevent costly c
 
 - **Requirement Validation**  
   Reviewing and confirming requirements with stakeholders to ensure accuracy, clarity, and alignment with project goals. Validation helps identify and address any misunderstandings early in the process.
+
+
+  # Types of Requirements  
+
+## Functional Requirements  
+Functional requirements define the specific features and functionalities that the system must provide to meet user needs. These requirements describe what the system should do and include tasks, actions, and operations.  
+
+### Examples for a Booking Management Project:  
+- **User Registration and Login:** Users must be able to create accounts and log in securely.  
+- **Property Search:** Users can search for properties using filters like location, price, and type.  
+- **Booking Process:** Users can book a property by selecting dates and providing payment details.  
+- **Property Management:** Hosts can add, edit, and remove property listings.  
+- **Notifications:** The system sends booking confirmations and reminders via email or SMS.  
+
+## Non-functional Requirements  
+Non-functional requirements define how the system performs and address aspects such as performance, security, usability, and reliability. These requirements ensure the system meets user expectations beyond its core functionality.  
+
+### Examples for a Booking Management Project:  
+- **Performance:** The application should load pages within 2 seconds under normal load conditions.  
+- **Scalability:** The system must support 1,000 concurrent users during peak periods.  
+- **Security:** All sensitive user data, including passwords and payment information, must be encrypted using industry-standard protocols.  
+- **Availability:** The system should maintain 99.9% uptime to ensure reliable access.  
+- **Usability:** The interface should be intuitive, with a consistent design across all pages.  
