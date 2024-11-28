@@ -20,3 +20,20 @@ By documenting and validating requirements, this phase facilitates better commun
 ***Cost and Time Efficiency***  
 
 Identifying and addressing requirements early in the SDLC helps prevent costly changes during development or post-deployment. It saves time by reducing the need for rework and helps maintain project timelines.
+
+# Key Activities in Requirement Analysis   
+
+- **Requirement Gathering**  
+  Collecting initial requirements from stakeholders, end-users, and clients through interviews, surveys, and workshops. This activity aims to understand the basic needs and expectations for the software system.
+
+- **Requirement Elicitation**  
+  Refining and expanding on gathered requirements using techniques such as brainstorming, prototyping, and focus group discussions. This step ensures detailed and actionable requirements.
+
+- **Requirement Documentation**  
+  Organizing and documenting requirements in a structured format, such as Software Requirement Specifications (SRS), use cases, or user stories, to provide a clear reference for the development team.
+
+- **Requirement Analysis and Modeling**  
+  Evaluating and analyzing requirements for feasibility, consistency, and completeness. This step often involves creating models like flowcharts, use case diagrams, and wireframes to visualize the system.
+
+- **Requirement Validation**  
+  Reviewing and confirming requirements with stakeholders to ensure accuracy, clarity, and alignment with project goals. Validation helps identify and address any misunderstandings early in the process.
